@@ -1,0 +1,2 @@
+aiogram~=2.24
+termcolor~=2.2.0
